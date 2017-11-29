@@ -1,6 +1,8 @@
 # Hello--world
 This is the first one i have made
 I am not the worst or best at this
-@echo DAB
-pause
+This is pretty cool
+
+
+
 
